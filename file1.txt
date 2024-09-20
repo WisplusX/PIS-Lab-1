@@ -1,0 +1,3 @@
+Content for file1
+New content for file1
+New new content for file1
